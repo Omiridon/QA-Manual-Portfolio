@@ -16,6 +16,6 @@ banking application used for QA training purposes.
 | SCRUM-4 | Manager ID displayed as 'Manger Id' | Low |
 | SCRUM-5 | Copyright bar overlapping Manager Taskbar | High |
 | SCRUM-6 | Email validation alert shown incorrectly | Medium |
-| SCRUM-7 | Duplicate email allowed for registration | High |
+| SCRUM-7 | Duplicate email allowed for registration | Critical |
 | SCRUM-8 | Duplicate phone number allowed | High |
 | SCRUM-9 | Duplicate PIN allowed for registration | High |
