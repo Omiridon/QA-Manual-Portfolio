@@ -1,6 +1,6 @@
 # SCRUM-7: System allows customer registration with an email already registered as a manager account
 
-**Severity:** High  
+**Severity:** Critical
 **Status:** Open  
 **Environment:** demo.guru99.com/V4 — Chrome Browser, Windows 10  
 
