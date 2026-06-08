@@ -22,6 +22,3 @@ accounts. This represents a significant security vulnerability.
 The system should prevent registration with a PIN already 
 in use and display an appropriate error message such as 
 "This PIN is already in use. Please choose a different PIN."
-
-## Screenshot
-![SCRUM-9 Bug Screenshot](../screenshots/SCRUM-9.png)
